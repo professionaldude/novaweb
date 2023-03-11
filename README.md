@@ -1,1 +1,3 @@
 # novaweb
+
+- `favicon` cambiat.

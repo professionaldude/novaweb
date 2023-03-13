@@ -303,6 +303,22 @@
                     <h2 class="section-heading text-uppercase">Contact Us</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
+
+                <form id="fs-frm" name="nova-form" accept-charset="utf-8" action="https://formspree.io/f/mqkoldvr" method="post">
+                    <fieldset id="fs-frm-inputs">
+                      <label for="full-name"></label>
+                      <input type="text" name="name" id="full-name" placeholder="NOMBRE" required="">
+                      <label for="email-address"></label>
+                      <input type="email" name="_replyto" id="email-address" placeholder="EMAIL" required="">
+                      <label for="telephone"></label>
+                      <input type="telephone" name="telephone" id="telephone" placeholder="TELÉFONO" required="">
+                      <label for="complaint"></label>
+                      <textarea rows="6" name="complaint" id="complaint" placeholder="MENSAJE" required=""></textarea>
+                      <input type="hidden" name="_subject" id="email-subject" value="Complaint Form Submission">
+                    </fieldset>
+                    <input type="submit" value="ENVIAR">
+                  </form>
+
                 <!-- * * * * * * * * * * * * * * *-->
                 <!-- * * SB Forms Contact Form * *-->
                 <!-- * * * * * * * * * * * * * * *-->

@@ -7,3 +7,4 @@
 - `blau corporatiu` enlloc del gris original.
 - `copyright` del footer
 - `logo` afegit
+- `botó de whatsapp` implementat

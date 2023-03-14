@@ -6,7 +6,7 @@
 - `botons` de linkedin, twitter i facebook eliminats.
 - `blau corporatiu` enlloc del gris original.
 - `copyright` del footer.
-- `logo` afegit.
+- `logo de nova` afegit.
 - `botó de whatsapp` implementat.
 - `formulari` adaptat i funcional.
 - `logos` de responsabilitat social afegits.

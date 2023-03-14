@@ -8,3 +8,5 @@
 - `copyright` del footer.
 - `logo` afegit.
 - `botó de whatsapp` implementat.
+- `formulari` adaptat i funcional.
+- `logos` de responsabilitat social afegits.
